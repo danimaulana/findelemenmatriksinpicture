@@ -15,7 +15,7 @@ w = 300
 h = 300
 
 #Letak Gambar
-img = cv2.imread("C:\\Users\\danim\\Downloads\\putin.jpg")
+img = cv2.imread("C:\\Users\\helshinky\\Downloads\\.jpg")
 
 #Crop Gambar
 crop_image = img[y:y+h, x:x+w]
